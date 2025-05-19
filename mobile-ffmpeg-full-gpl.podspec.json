@@ -9,7 +9,7 @@
   },
   "license": {
     "type": "GPL-3.0",
-    "file": "mobileffmpeg.framework/LICENSE"
+    "file": "mobile-ffmpeg-full-gpl/mobileffmpeg.framework/LICENSE"
   },
   "platforms": {
     "ios": "9.3"
